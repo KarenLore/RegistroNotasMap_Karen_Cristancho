@@ -41,3 +41,6 @@ El estudiante con mejor rendimiento es Carla con una nota de 4.9
 ## Autor
 **Karen Cristancho**
 
+📬 Contacto
+- 📧 Correo electrónico: criscacereskarenlorena@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/karencristancho
